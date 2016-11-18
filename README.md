@@ -1,2 +1,2 @@
 # hello-world
-No  Clue
+Howdy, I'm just learning this stuff. Have mercy.
